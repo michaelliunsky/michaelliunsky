@@ -1,4 +1,4 @@
-# Visitor Count 20240707
+# Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/michaelliunsky/count.svg)
 
